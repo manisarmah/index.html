@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+padding-left: 5px;
+
+}
+div{
+    background-color: beige;
+    border: 1px solid rgb(233, 136, 136);
+}
+h2{
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+}
+fieldset{
+    background-color: white;
+
+}
+input[type="submit"]
+{
+    background-color: yellowgreen;
+    border: none;
+    width: 100%;
+    font-size: 150%;
+    padding-left:0px;
+}
+h1{
+    text-align: center;
+}
